@@ -1,18 +1,29 @@
 #home{
-    background-image: url(../images/p0.jpg);
+    background-image: url(../images/1.jpg);
 }
-#about{
-    background-image: url(../images/p1.jpg);
+
+
+#about.imgBox{
+    width: 75%;
+    margin: auto;
 }
-#news{
-    background-image: url(../images/p2.jpg);
+#about img{
+    width: 75%;
 }
-#service{
-    background-image: url(../images/p3.jpg);
+.container .row .txt-bg .box{
+    float: left; width: 50%;
+    display: inline-block;
 }
-#contact{
-    background-image: url(../images/p4.jpg);
+/* .info .box{
+    float: left;
 }
+.info .box h4{
+    text-align: center;
+    color: #fff
+}
+#works .row .box img{
+    display: inline-block;
+} */
 
 html,
 body{
